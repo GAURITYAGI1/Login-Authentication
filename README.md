@@ -77,7 +77,7 @@ Contributions are welcome! If you have any ideas to improve this project, please
 
 ## Contact
 
-For any questions or feedback, please contact me at [your-email@example.com](mailto:gaurityagi7524@gmail.com).
+For any questions or feedback, please contact me at [gaurityagi7524@gmail.com](mailto:gaurityagi7524@gmail.com).
 
 ---
 
