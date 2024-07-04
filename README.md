@@ -1,4 +1,3 @@
-### Task 
 # Login Authentication Using JavaScript.
 
 This repository demonstrates a simple login authentication system implemented in JavaScript. The system includes user registration, login, and session management functionalities.
@@ -11,7 +10,10 @@ This repository demonstrates a simple login authentication system implemented in
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [View](#view)
+- [Contributing](#contributing)
 - [Contact](#contact)
+  
 
 ## Introduction
 
@@ -64,6 +66,8 @@ login-authentication-js/
 ├── .gitignore
 └── README.md
 ```
+## View 
+![Screenshot (32)](https://github.com/GAURITYAGI1/Login-Authentication-JS/assets/139331361/176b1e9c-d189-4f55-8bc0-3ca24e6fea87)
 
 ## Contributing
 
