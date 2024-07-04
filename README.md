@@ -60,7 +60,7 @@ login-authentication-js/
 │   styles.css
 │   index.html
 ├── images/
-│   ├── auth.js
+│   ├── bg0.jpeg
 ├── .gitignore
 └── README.md
 ```
